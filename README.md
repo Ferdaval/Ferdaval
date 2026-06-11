@@ -68,7 +68,7 @@ When I'm not coding, I'm probably tinkering with 3D printing or a woodworking pr
 ---
 
 <p align="center">
-  <em>lways open to cool ideas & new projects, let's build something awesome together! 🚀</em>
+  <em>always open to cool ideas & new projects, let's build something awesome together! 🚀</em>
 </p>
 
 <p align="center">
