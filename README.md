@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/SadraHekmat"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
   <a href="mailto:Sadrahekmatt@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Ferdaval&style=flat&color=brightgreen" alt="profile views" />
 </p>
 
 ---
@@ -43,7 +42,7 @@ When I'm not coding, I'm probably tinkering with 3D printing or a woodworking pr
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-**Currently exploring** → LLMs, advanced ML pipelines, 3D point-cloud processing 🤖
+**Currently exploring** → LLMs, advanced ML pipelines, 3D point cloud processing 🤖
 
 ---
 
@@ -69,5 +68,9 @@ When I'm not coding, I'm probably tinkering with 3D printing or a woodworking pr
 ---
 
 <p align="center">
-  <em>Open to work on cool ideas, let's build something cool together!</em>
+  <em>lways open to cool ideas & new projects, let's build something awesome together! 🚀</em>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Ferdaval&style=flat&color=brightgreen" alt="profile views" height="10"/>
 </p>
