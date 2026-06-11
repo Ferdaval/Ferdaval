@@ -77,5 +77,5 @@ When I'm not coding, I'm probably tinkering with 3D printing or a woodworking pr
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Ferdaval&style=flat&color=brightgreen" alt="profile views" height="10"/>
+<img src="https://komarev.com/ghpvc/?username=Ferdaval&style=flat&color=brightgreen" alt="profile views" height="25"/>
 </p>
